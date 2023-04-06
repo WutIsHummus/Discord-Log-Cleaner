@@ -5,6 +5,6 @@ Format your discord logs exported using [DiscordChatExporter](https://github.com
 
 ### How to use 
 
-Have your chat export on the same directory and rename it to be "input.txt"
+Have your chat export on the same directory and rename it to be "input.txt"<br>
 Run the step.py files in order <br>
 Your final txt file should be called "OutputFinal.txt"
